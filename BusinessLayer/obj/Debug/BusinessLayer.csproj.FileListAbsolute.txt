@@ -1,0 +1,4 @@
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\obj\Debug\Listers Candidate-Assessment.Tests.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\bin\Debug\Listers Candidate-Assessment.Tests.dll
+c:\users\chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\bin\Debug\Listers Candidate-Assessment.Tests.pdb
+c:\users\chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\obj\Debug\Listers Candidate-Assessment.Tests.dll
+c:\users\chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\obj\Debug\Listers Candidate-Assessment.Tests.pdb
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\bin\Debug\DataLayer.dll
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\bin\Debug\DataLayer.pdb
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\bin\Debug\BusinessLayer.dll
+C:\Users\Chris\documents\visual studio 2013\Projects\Listers Candidate-Assessment\Listers Candidate-Assessment.Tests\bin\Debug\BusinessLayer.pdb
